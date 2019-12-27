@@ -5,3 +5,5 @@ NLP with Deep Learning (Workshop) materials
 ## 2. download and run iPython notebooks (notebooks directory)
 
 ## I strongly recommend using Google Colab to run notebooks.
+
+## If you have any questions don't hesitate to contact me (e.taher@mail.sbu.ac.ir)
